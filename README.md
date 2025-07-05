@@ -88,7 +88,7 @@ OpenCV-powered real-time facial emotion recognition system with 90% accuracy.
 
 📌 **View or Download my Resume**:  
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vamsipoliparthi.github.io/help/)  
-📎 Hosted at: [vamsipoliparthi.github.io/help](https://vamsipoliparthi.github.io/help)
+
 
 ---
 
