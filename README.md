@@ -302,7 +302,7 @@ class VamsiPoliparthi:
 <td align="center" width="33%">
 
 ### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://poliparthi-portfolio-preview.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://vamsipoliparthi.github.io/portfolo/)
 
 *Explore my complete portfolio*
 
