@@ -120,7 +120,7 @@ class VamsiPoliparthi:
 <td align="center" width="100%">
 
 ### 🧠 AI Research intern  &part time 
-**Kapil Agro, Hyderabad, India** | *May 2024 
+**Kapil Agro, Hyderabad, India** | *May 2025 
 
 <div align="left">
 
